@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-success.svg)](https://opensource.org/licenses/MIT)
 
 Example VTK files for demonstrations and testing of
-[ReadVTK.jl](https://github.com/trixi-framework/ReadVTK.jl).
+[ReadVTK.jl](https://github.com/JuliaVTK/ReadVTK.jl).
 
 ## Authors
 `ReadVTK_examples` is maintained by the
